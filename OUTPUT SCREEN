@@ -1,0 +1,40 @@
+Expense Tracker
+1. Add Expense
+2. View Monthly Summary
+3. View Category Summary
+4. Exit
+Enter your choice: 1
+
+Enter the date (YYYY-MM-DD): 2024-06-05
+Enter the category (e.g., Food, Transportation): Food
+Enter the description of the expense: Lunch at cafe
+Enter the amount spent: 12.5
+
+Expense Tracker
+1. Add Expense
+2. View Monthly Summary
+3. View Category Summary
+4. Exit
+Enter your choice: 2
+
+Monthly Summary:
+2024-06: $12.50
+
+Expense Tracker
+1. Add Expense
+2. View Monthly Summary
+3. View Category Summary
+4. Exit
+Enter your choice: 3
+
+Category Summary:
+Food: $12.50
+
+Expense Tracker
+1. Add Expense
+2. View Monthly Summary
+3. View Category Summary
+4. Exit
+Enter your choice: 4
+
+Exiting Expense Tracker. Goodbye!
